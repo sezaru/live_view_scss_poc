@@ -1,0 +1,11 @@
+.tag[s-yfcbj] {
+  @apply text-green-500;
+}
+
+.tag[s-mkn3r] {
+  @apply text-red-500;
+}
+
+.tag[s-imbsk] {
+  @apply bg-yellow-500;
+}
